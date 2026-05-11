@@ -1,0 +1,88 @@
+*.class
+*.log
+*.ctxt
+.mtj.tmp/
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+.DS_Store
+
+# Flutter build
+/build/
+/flutter_build/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+pubspec.lock
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# Android
+.gradle/
+local.properties
+*.jks
+*.keystore
+/android/app/debug
+/android/app/profile
+/android/app/release
+
+# iOS
+.xcworkspace/
+xcworkspace/
+Pods/
+*.xcworkspace
+.symlinks/
+ios/**/*
+
+# Web
+.dart_tool/
+.packages
+
+# Desktop
+windows/flutter/generated_plugins.cmake
+windows/flutter/generated_plugin_count.txt
+windows/flutter/generated_plugins.cmake
+macos/Flutter/GeneratedPluginRegistrant.swift
+macos/Flutter/Flutter-Debug.xcconfig
+macos/Flutter/Flutter-Release.xcconfig
+
+# Coverage
+coverage/
+.coverage
+.dart_tool/
+
+# Generated files
+*.g.dart
+*.config.dart
+*.generated.dart
+.generated/
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Misc
+*.bak
+*.swp
+*~
+.#*
